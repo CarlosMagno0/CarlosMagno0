@@ -41,7 +41,7 @@ Gosto de explorar CTFs, ferramentas de pentest e tudo que envolve segurança da 
 
 ---
 
-### 🐍 Snake com meus commits
+## 🐍 Snake com meus commits
 
 ![snake gif](https://github.com/CarlosMagno0/CarlosMagno0/blob/output/github-contribution-grid-snake.svg)
 
