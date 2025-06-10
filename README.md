@@ -9,7 +9,8 @@
 
 ### 👨‍💻 Sobre mim
 
-Me chamo **Carlos Magno**, tenho 21 anos e sou apaixonado por tecnologia. Atualmente estudo **Cybersecurity**, com foco em segurança ofensiva, Linux, análise de vulnerabilidades e boas práticas de proteção digital.  
+Me chamo **Carlos Magno**, tenho 21 anos e sou apaixonado por tecnologia.  
+Atualmente estudo **Cybersecurity**, com foco em segurança ofensiva, Linux, análise de vulnerabilidades e boas práticas de proteção digital.  
 Gosto de explorar CTFs, ferramentas de pentest e tudo que envolve segurança da informação.
 
 ---
@@ -37,6 +38,12 @@ Gosto de explorar CTFs, ferramentas de pentest e tudo que envolve segurança da 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosMagno0&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMagno0&layout=compact&theme=tokyonight" />
 </div>
+
+---
+
+### 🐍 Snake com meus commits
+
+![snake gif](https://github.com/CarlosMagno0/CarlosMagno0/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
